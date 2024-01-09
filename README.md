@@ -25,3 +25,5 @@ The EDA revealed crucial insights into the relationships between various factors
 
 Conclusion
 The project underscores the value of EDA in understanding medical datasets and demonstrates the power of machine learning and deep learning in extracting meaningful insights from health data, specifically relating to Metabolic Syndrome.
+
+
